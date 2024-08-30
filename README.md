@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently working as a backend Developer **Php Laravel**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhammad-aqib-b0670520b](https://www.linkedin.com/in/muhammad-aqib-b0670520b)
+- 👨‍💻 See my portfolio: https://aqibkkhanakj.github.io/
 
-- 💬 Ask me about **Laravel, React, ViewBlade, Vue.js, Rest API**
+- 💬 Ask me about **Laravel, React, ViewBlade, Inertia.js, Rest API**
 
 - 📫 How to reach me **jadoonaqibjadoon@yahoo.com**
 
