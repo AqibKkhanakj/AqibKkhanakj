@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working as a backend Developer **Php Laravel**
 
-- 👨‍💻 See my portfolio: https://aqibkkhanakj.github.io/
+- 👨‍💻 Visit my portfolio: https://aqibkkhanakj.github.io/
 
 - 💬 Ask me about **Laravel, React, ViewBlade, Inertia.js, Rest API**
 
